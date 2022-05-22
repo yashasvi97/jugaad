@@ -1,4 +1,7 @@
-# Objects as Points + HarDNet
+# Running Code example:  
+![](readme/training.png)
+
+<!-- # Objects as Points + HarDNet
 Object detection using center point detection:
 ![](readme/fig2.png)
 > [**Objects as Points**](http://arxiv.org/abs/1904.07850)
@@ -135,4 +138,4 @@ Please see [original CenterNet repo](https://github.com/xingyizhou/CenterNet)
 
 For CenterNet Citation, please see [original CenterNet repo](https://github.com/xingyizhou/CenterNet)
 
-For HarDNet Citation, please see [HarDNet repo](https://github.com/PingoLH/Pytorch-HarDNet)
+For HarDNet Citation, please see [HarDNet repo](https://github.com/PingoLH/Pytorch-HarDNet) -->
